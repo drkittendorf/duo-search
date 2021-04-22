@@ -1,70 +1,108 @@
-# Getting Started with Create React App
+# DALE'S REACT DUO SEARCH
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### TABLE OF CONTENTS
 
-## Available Scripts
+- [CONTRIBUTORS](#CONTRIBUTORS)
+- [DESCRIPTION](#DESCRIPTION)
+- [REFERENCE LINKS](#REFERENCE-LINKS)
+  - [Dale's React Portfolio Application :: Live Link](https://drkittendorf.github.io/portfolio/)
+  - [Dale's React Portfolio Application :: GitHub Repo](https://github.com/drkittendorf/portfolio)
+- [LANGUAGES AND TOOLS](#LANGUAGES-AND-TOOLS)
+- [CORE PROJECT TECHNOLOGIES](#CORE-PROJECT-TECHNOLOGIES)
+- [CORE NODE DEPENDENCIES](#CORE-NODE-DEPENDENCIES)
+- [FUTURE DEVELOPMENT](#FUTURE-DEVELOPMENT)
+- [LICENSING](#LICENSING)
+- [SCREENSHOTS](#SCREENSHOTS-AND-VIDEO)
+- [NOTES](#CSS)
 
-In the project directory, you can run:
+---
+## CONTRIBUTORS
+Dale Kittendorf
 
-### `npm start`
+<br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+---
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## DESCRIPTION
 
-### `npm test`
+This react website is intended to search 2 sites from one search box and display result in a single page. Ideally I will begin with Allmusic Guide and Wikipedia. Results will display in 2 embedded page views.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<br>
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## REFERENCE LINKS
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Link to **Dale's Portfolio** deployed on GitHub Pages - [Application Live Link](https://drkittendorf.github.io/duo-search/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Link to **GitHub Repo** used for application development - [Application GitHub Repo](https://github.com/drkittendorf/duo-search.git)
 
-### `npm run eject`
+<br>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+---
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## LANGUAGES AND TOOLS:
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<br>
+<br>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+---
 
-## Learn More
+### CORE PROJECT TECHNOLOGIES
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Here is a list of all the core technologies used to develop this application.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- `React.js - A JavaScript library for building user interfaces`
+- `Node.js - An asynchronous event-driven JavaScript runtime`
 
-### Code Splitting
+### CORE NODE DEPENDENCIES
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+The dependencies listed below are all the core NPM packages used throughout the project.
 
-### Analyzing the Bundle Size
+- `react-dom` - This package serves as the entry point to the DOM and server renderers for React.
+- `gh-pages`- GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<br>
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## FUTURE DEVELOPMENT
 
-### Advanced Configuration
+For `future` development, I would like to incorporate the following `enhancements` into my portfolio:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- Add Search Text Box for single search
+- Add functionality to search two sites
+- Display both result with a single page
 
-### Deployment
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+## LICENSING
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+The code in this project is licensed under MIT license.
+
+---
+
+## SCREENSHOTS AND VIDEO
+
+- ### SCREENSHOT(S)  
+        (TBD)
+
+<br>
+
+- ### VIDEO
+        (TBD)
+<br>
+
+---
+
+- ### CSS
+
