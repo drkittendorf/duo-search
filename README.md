@@ -33,7 +33,7 @@ This react website is intended to search 2 sites from one search box and display
 
 ## REFERENCE LINKS
 
-Link to **Dale's Portfolio** deployed on GitHub Pages - [Application Live Link](https://drkittendorf.github.io/duo-search/)
+Link to **Dale's Duo Search** deployed on GitHub Pages - [Application Live Link](https://drkittendorf.github.io/duo-search/)
 
 Link to **GitHub Repo** used for application development - [Application GitHub Repo](https://github.com/drkittendorf/duo-search.git)
 
